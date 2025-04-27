@@ -12,9 +12,11 @@ python -m venv venv
 
 ### Activar entorno virtual
 
-(# Windows)
+#### Windows
 
+```python
 .\env\Scripts\activate
+```
 
 #### Linux
 
