@@ -14,9 +14,8 @@ python -m venv venv
 
 #### Windows
 
-```python
-.\env\Scripts\activate
-```
+` ``python
+.\env\Scripts\activate  ` ``
 
 #### Linux
 
