@@ -133,3 +133,4 @@ y libros.
 despues de activar el entorno virtual descargamos XAMMP y abrimos de apache e entorno virtual Djiango y creamos usuario y libros
 
 https://github.com/jhon-escobar/Pg2-practica2/blob/fb998c76012ccef5ded4855bf8cd63bc26606773/imagen/djiango.png
+![imagen](https://github.com/jhon-escobar/Pg2-practica2/blob/fb998c76012ccef5ded4855bf8cd63bc26606773/imagen/djiango.png)
