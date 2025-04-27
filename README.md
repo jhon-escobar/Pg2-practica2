@@ -125,4 +125,9 @@ python manage.py runserver
 
 ### Acceder al panel de administración
 
-<p>Abre tu navegador y ve a  http://localhost:8000/admin/.  Inicia sesión con el superusuario que creaste anteriormente. Deberías ver las opciones para agregar autores y libros.
+<p>Abre tu navegador y ve a  http://localhost:8000/admin/.  Inicia sesión con el superusuario que creaste anteriormente. Deberías ver las opciones para agregar autores 
+y libros.
+
+# practica
+
+despues de activar el entorno virtual descargamos XAMMP y abrimos de apache e entorno virtual Djiango y creamos usuario y libros
