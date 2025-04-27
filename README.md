@@ -132,4 +132,4 @@ y libros.
 
 despues de activar el entorno virtual descargamos XAMMP y abrimos de apache e entorno virtual Djiango y creamos usuario y libros
 
-imagen/djiango.png
+     ![simagen](imagen/djiango.png)
